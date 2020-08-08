@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Newsletter</string>
+    <string name="name_hint">Name</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="register_title">Register</string>
+    <string name="gender_label">Gender</string>
+    <string name="female_radio">Female</string>
+    <string name="male_radio">Male</string>
+    <string name="submit">Submit</string>
+    <string name="hello">Hello</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="title">Title</string>
+    <string name="body">Body</string>
+    <string name="date">Date</string>
+    <string name="image">Image</string>
+    <string name="insert_title">Create News</string>
+    <string name="update_title">Update News</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+</resources>
